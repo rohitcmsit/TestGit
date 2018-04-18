@@ -1,0 +1,4 @@
+com\cms\example\dao\UserDao.class
+com\cms\example\dao\UserDaoImpl.class
+com\cms\example\model\User.class
+com\cms\example\controller\UserController.class
